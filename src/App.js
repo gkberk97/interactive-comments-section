@@ -4,7 +4,9 @@ function App() {
   return (
     <div className="App">
         <div className="container">
-            <h1>Test Rubik</h1>
+            <div className="inner-container">
+                <div className="comment-card"></div>
+            </div>
         </div>
     </div>
   );
